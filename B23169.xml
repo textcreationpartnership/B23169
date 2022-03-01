@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To those that have been formerly in authority, and have broken covenant with God &amp; man. By G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23169</idno>
+            <idno type="OCLC"> 10329626</idno>
+            <idno type="STC">Wing F1963</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4105.de.2[3]</idno>
+            <idno type="STC">ESTC R28014</idno>
+            <idno type="EEBO-CITATION">99889526</idno>
+            <idno type="PROQUEST">ocm99889526</idno>
+            <idno type="VID">193569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193569)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B10:1[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To those that have been formerly in authority, and have broken covenant with God &amp; man. By G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson, and are to be sold at his shop, at the sign of the Black-Spread-Eagle and Windmill in Martins le Grand,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G.F. = George Fox.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>With numerous errors in pagination.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193569:1" rendition="simple:additions"/>
+            <p>TO THOSE That have been formerly in AUTHORITY, And have broken COVENANT WITH God &amp; Man.</p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> and are to be ſold at his Shop, at the Sign of the <hi>Black-Spread-Eagle</hi> and <hi>Windmill in Martins le Grand.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:193569:2"/>
+            <head>To Thoſe that have been in Authority, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>NOw are the <hi>Propheſies</hi> fulfilled and fulfilling upon you, which was ſpoken to you by the People of God, in your <hi>Courts,</hi> in your <hi>Steeple-Houſes,</hi> in your <hi>Towns, Cities, Markets, High-ways,</hi> and at your <hi>Feaſts</hi> and <hi>Pleaſures,</hi> when you were at your height of Au<g ref="char:EOLhyphen"/>thority, &amp; in your Highneſſe, and puft up that you would nei<g ref="char:EOLhyphen"/>ther hear God nor man, though raiſed up from a mean Eſtate; none to come nigh you without bowing, or the reſpect of per<g ref="char:EOLhyphen"/>ſons; and were in the worlds way, Complements, and Faſhions, and ſet down at eaſe in the ſpoyle of your enemies: Which for Conſcience ſake toward God they could not go into, which they were Redeemed from: Therefore, they were by you hated for that cauſe, but now you may conſider the thing is come upon you, which we told you of; who exalted your ſelves a<g ref="char:EOLhyphen"/>bove your Brethren, and threw the juſt and harmleſs from a<g ref="char:EOLhyphen"/>mong you, until at laſt God hath thrown you out; and when you caſt the innocent out from among you, then you fell abi<g ref="char:EOLhyphen"/>ting one at another, until you were conſumed one of another; and ſo the day is come upon you, which before to you was told, though before you would not believe it. And is not your hearts ſo hardened that you will hardly yet believe, though in captivity? and was it not told you (when you ſpilt the blood of the Innocent, in your <hi>Steeple-Houſes,</hi> in your <hi>Markets,</hi> in your <hi>High-wayes,</hi> and in your <hi>Cities,</hi> yea and <hi>Courts</hi>) by ſuch as ſpoke the word then, and could not put off their hats, that if ſomething did not ariſe among your ſelves, to avenge the blood of the Innocent, there would ſomething come from <hi>be<g ref="char:EOLhyphen"/>yond Sea,</hi> which lay reſerved there, which the Arme of Fleſh, and ſtrongeſt of Mountains cannot withſtand the Arm of God; &amp; yet you would not conſider, nor regard, nor hear, but cried peace, peace, and feaſted your ſelves, and ſate down in the ſpoyle of your enemies, and were both treacherous to God and man; and who will truſt you now? and have you not taken <hi>CO<g ref="char:V">Ʋ</g>ENANTS</hi> and <hi>OATHS,</hi> and made the Nation take <hi>CO<g ref="char:V">Ʋ</g>ENANTS,</hi> and <hi>OATHS?</hi> and broken both <hi>Covenants</hi> and <hi>Oaths,</hi> bewixt God
+<pb n="2" facs="tcp:193569:2" rendition="simple:additions"/>and man, and made the Nation both, break both <hi>Covenants</hi> &amp; <hi>Oaths?</hi> So that nothing but hypocricy, and rottenneſs, and falſ-hood, and fair pretences, were ſeen amongſt you. And af<g ref="char:EOLhyphen"/>ter when you pretended to ſet up the <hi>Old-Cauſe,</hi> it was but your fillineſs; ſo that you long ſtunk to ſober people, which ſaw that no good you would do, but it was a joy to any of you to get up in Authority, that you might have praiſe; and them that were in the ſelf-denial were a deriſion to you, amongſt whom That was baniſhed, and ſo become the honored and reſpected, Nations Maſters, and not Servants, for the greateſt of all muſt be the Servant to all; and ſo there you loſt your Authority, not conſidering your ſtates from whence you were, &amp; to what God had raiſed you up, but forgat the Lord, and have quencht that which is good in your ſelves, and have perſecuted them that lived in it, ſo that an honeſt man could not live amongſt you, but put out till you were overthrown your ſelves, and ſo were grown ſo groſs &amp; perverſe, that at laſt you are neither fit for God nor man: Have you not uſed to call the <hi>Quakers,</hi> the <hi>Phanatick people,</hi> and the <hi>giddy heads,</hi> but whether are you now giddied into <hi>Cains</hi> City of <hi>Nod,</hi> which ſignifieth wandring? And have you not perſecuted, and impriſoned till death, ſuch as God hath reſpect to? and now hath he reproved you for their ſakes, by them whom ye have hated. Was not many of you cut off (and yet would not take warning) for your perſecuting? was not there a book of <hi>Exaples</hi> ſet out unto you, ſhewing what ſudden and ſtrang deaths happened upon the perſecutors of the Innocent without a cauſe? and yet ye would not take war<g ref="char:EOLhyphen"/>ning, until the over-flowing Scourge come upon you. Are not you them that have killed, (like <hi>Cain</hi> that killed) about your Sacrifice? hath not God Vagabonded you, that you ſhould be<g ref="char:EOLhyphen"/>come a Curſe upon the earth? doth not the blood of the Righ<g ref="char:EOLhyphen"/>teous cry out of the ground for Vengeance? will not the blood of the Righteous be required? did you think that the Lord would let you fit alwayes with bloody hands, and fiſts of wick<g ref="char:EOLhyphen"/>edneſſe? what is become of all your feaſts, and faſts, or the pray<g ref="char:EOLhyphen"/>ers and bleſſings of your Prieſts? hath the Lord heard you, or your Sacrifices hath he had reſpect unto? do you not ſee that its all hypocriſie, and from a falſe heart? will not the Prieſts pray for the <hi>KING</hi> now, as faſt as they prayed againſt him, for the <hi>PARLIAMENT,</hi> to keep their benefices, who once prayed
+<pb n="4" facs="tcp:193569:3"/>againſt him, and ſaid, <hi>Curſed was he that did not fight againſt him:</hi> Now what is become of your Sacrifices, you Perſecutors, hath God had reſpect to them, or are they gone where <hi>Cain</hi> went? O the falſneſſe of heart! and treacherouſneſſe, and ſecurity that you were grown to, that you could not truſt one ano<g ref="char:EOLhyphen"/>ther! have not you cauſed the Nations, and cauſed the Souldiery both in arrears, and in wages, to ſuffer? was the Na<g ref="char:EOLhyphen"/>tion behind in their Taxes? and have not the Souldiers bin like to ſtarve for want of their pay? have not you been falſe to God and man every way, &amp; oppreſt the Nation every way? &amp; almoſt all people had a cry of oppreſſion in their mouths, and when they petitioned you; and addreſt to you, it was a great thing if they had thanks from you; and ſome when they laid their grie<g ref="char:EOLhyphen"/>vances before you, you would not take it except they put of their hats: Now your place had been to have ſought to have done Ju<g ref="char:EOLhyphen"/>ſtice, if you had known your places, for that is it that preſerves a Nation. So have not you been the greateſt Prayers, and Preachers, and Profeſſors in the Nation, and the greateſt Per<g ref="char:EOLhyphen"/>ſecutors? for how many thouſands have been brought up to you, and laid before you, that have been Stockt and Whipped, Baniſhed, and put to Death, and their houſes Rifled, and their goods ſpoyled, by your great Profeſſing, and Preaching Prieſts? as ever did the <hi>Tories,</hi> and <hi>Moſs Troops,</hi> which made your Religion lothſome, and made the honeſt people diſcent from you; but now have you your reward, and the day of the Lord is come upon you, nevertheleſs God hath reſerved a rod in ſtore, for them that do wickedly, that none ſhould rejoyce in wickedneſſe, and in the downfal one of another, but in the Power of the Lord that doth overturn, which is ſeen with the pure eye, that lives in Juſtice, Truth and Righteouſneſs; and the Ravenous Lyons muſt not be Satisfied, but muſt ſuffer hun<g ref="char:EOLhyphen"/>ger; the reward of the hypocrite is to be paid, and perſe<g ref="char:EOLhyphen"/>cutors were ever blind. And now you may ſee what is come upon you; now ſee if your Teachers can ſave you, who have Preached and Prayed for you, and that they would ſtand by you with their <hi>Lives</hi> and <hi>Liberties,</hi> and that they would ſtand in the gap: Now ſee how they have deceived you, whoſe hedg now is laid down to the ground; And have you not impriſoned and perſecuted many for coming to you, and warning you of
+<pb n="5" facs="tcp:193569:3" rendition="simple:additions"/>thoſe things which now are come to paſs upon you? There<g ref="char:EOLhyphen"/>fore, now you may ſee, that when you had power you did not do good in your age, and ſo had not a praiſe, neither a good Saviour in the hearts of the honeſt upright and inno<g ref="char:EOLhyphen"/>cent; for had you ſtopt, the ſhedding the blood of the innocent, perſecution and oppreſſion, the Lord would have ſtood by you (for that will be the greateſt thing upon you) &amp; ſtopped the vi<g ref="char:EOLhyphen"/>olence of the wicked, from impriſoning them; and theſe things will follow you to your beds, and on you lye heavy; yea the heavieſt thing as ever you did, beſides all your unjuſt dealing, and bad actions, and dealings in the Nation to people, that had regard to you, and that were againſt you.</p>
+            <p>And now all ye <hi>PRIESTS</hi> and <hi>PROFESSORS,</hi> you may ſee what good you have done among people, and you who have been the cauſe of caſting ſo many of the ſervants of the Lord in priſon, and caſt out of the Vineyard, <hi>and now are you turned out your ſelves,</hi> and mind your vineyard, how you found it, and how you left it, and ſee if you be at peace with the unrighte<g ref="char:EOLhyphen"/>ous <hi>mammon,</hi> and now you have not power, but are become as weak as water, and have not ſtrength, neither are you to riſe, ex<g ref="char:EOLhyphen"/>cept you repent.</p>
+            <p>And Friends, you have brought the Nation to be like a great <hi>Sea,</hi> and in it hath been like <hi>Whales</hi> to ſwallow up; you have been the <hi>bad examples</hi> and <hi>patterns,</hi> who have pretended the greateſt profeſſion and preaching that ever was in <hi>England</hi> be<g ref="char:EOLhyphen"/>fore, but <hi>that</hi> you have diſhonoured, and <hi>that</hi> which God hath given to you <hi>is quenched,</hi> and you would have broken both <hi>or<g ref="char:EOLhyphen"/>der, edification</hi> and <hi>comforting</hi> amongſt Gods people, but now hath God <hi>broken you,</hi> &amp; reproved you for touching <hi>his Anointed,</hi> and <hi>harming his Prophets;</hi> and you have been the <hi>example</hi> of <hi>per<g ref="char:EOLhyphen"/>ſecution</hi> to all the Dominion of <hi>England,</hi> yea to all Nations; who have been the greateſt profeſſors of Chriſt with your lips, but now your hearts, and inward parts, and skirts, hath God brought to light, and made you as <hi>bare,</hi> and as <hi>naked,</hi> as the ſervants of the Lord that went among you as a ſigne of your <hi>nakedneſs</hi> and <hi>ſiripping;</hi> (which ſome of them you <hi>abuſed,</hi> and caſt into priſon) I <hi>ſay,</hi> went <hi>naked</hi> before the people was carried into captivity, as <hi>a ſigne</hi> to them, as many have done <hi>to you,</hi> and ſome in <hi>ſack<g ref="char:EOLhyphen"/>cloth</hi>
+               <pb n="5" facs="tcp:193569:4"/>and <hi>aſhes</hi> upon their <hi>heads,</hi> and ſtill you rebelled and per<g ref="char:EOLhyphen"/>ſecuted the Lords <hi>Prophets,</hi> though ſome with hypocriticall hearts would promiſe <hi>fair,</hi> but perform <hi>little.</hi> Now is a skilfull people come <hi>vpon you,</hi> and now is the <hi>woes</hi> and <hi>plagues</hi> which we have often declared come upon you, which the ſervants of the Lord have cryed, <hi>WOE to England, WOE to the corrupt Ma<g ref="char:EOLhyphen"/>giſtrates, WOE to the Prieſts and to the Hypocrites,</hi> and fair Pre<g ref="char:EOLhyphen"/>tenders, and not Doers: Now you may ſee the end of your <hi>falſe Prophets</hi> and <hi>Prieſts</hi> that <hi>daubed with untempered morter;</hi> Now where is your wall they made? what have you now to cover your heads? lye they not bare now? are you not all become weak as water and faint-hearted, that dare not ſtand to your own principles? ſo as you have been examples and paterns of per<g ref="char:EOLhyphen"/>ſecution to all Nations of the innocent, in the height of your pride and vanity, are now become a hiſſing to all Nations in your fall, which the pride went before, which you were often told of. Oh wo is me for you! That mercy from the Lord you may find, in this great deep dark day of confuſion among you, who are like <hi>Babilon</hi> confounded, who hath long drunk the Saints blood; the <hi>Kings</hi> of the earth muſt hate the Whore, as the <hi>Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elations</hi> the <hi>Scriptures</hi> muſt be fulfilled, and thats but begin<g ref="char:EOLhyphen"/>ning, your <hi>Dalilah</hi> hath cut <hi>your locks,</hi> who has <hi>lulled</hi> aſleep in her lap, who roſe and ſhook your ſelves, and thought to have been as at other times: This was ſaid to you before your eyes was put out, &amp; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſet <hi>a grinding;</hi> but now you muſt ſee if you can work in the <hi>Mill,</hi> but your ſtate will hardly be found <hi>Sampſons,</hi> therefore conſider your ſelves, and ſee if they were not your friends that warned you of the things that is come upon you; who in the day of your proſperity would have ſtopt the cry of Wiſdom in your gates, and they that reproved ſin in your gates (which you Magiſtrates did not keep down) was become a prey amongſt you; your goals you fill'd almoſt in every corner of the Nation with the innocent and peaceable people; and of ſuch as obey<g ref="char:EOLhyphen"/>ed the command of Chriſt, and could not ſweare, you thruſt out of you <hi>Courts</hi> and <hi>Places,</hi> and thruſt them <hi>into Goals,</hi> that would have done truth at <hi>yea</hi> and <hi>nay.</hi> The houſes of <hi>thouſands</hi> of Families have you ſuffered to be <hi>rifled</hi> and <hi>ſpoiled</hi> by the <hi>Prie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> with a company of club-men, like a troop of Robbers: In all your <hi>Courts, Aſſizes,</hi> and <hi>Seſſions</hi> have you cauſed the <hi>in<g ref="char:EOLhyphen"/>nocent</hi>
+               <pb n="6" facs="tcp:193569:4" rendition="simple:additions"/>to be haled up and down, by an unrighteous <hi>miniſtry</hi> that they did no work for; and ſo brought iniquity upon your Throne Likewiſe men of 60. or 80. l. a year, who reproved ſin in the gates, and likewiſe <hi>ſober women,</hi> you have whipped as <hi>va<g ref="char:EOLhyphen"/>gabonds,</hi> and ſo have been <hi>examples</hi> to Nations to <hi>Whip, Baniſh, Priſon, Kill, Burn,</hi> and drink the blood of the innocent; and ſo Chriſt hath not been your example, <hi>who ſaves mens lives.</hi>
+            </p>
+            <p>And beſides, <hi>thouſands</hi> you have ſuffered <hi>your Prie<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> and <hi>Peo<g ref="char:EOLhyphen"/>ple</hi> to drag out of your <hi>Steeple-houſes</hi> by the <hi>hair of the head, knockt down,</hi> lay for <hi>dead,</hi> ſhed <hi>their blood,</hi> &amp; caſt into <hi>priſon,</hi> &amp; be<g ref="char:EOLhyphen"/>ſides <hi>thouſands</hi> of <hi>meetings</hi> of the people of God have been by your people tumulted, many there <hi>windows broken,</hi> houſes <hi>pull'd down,</hi> and <hi>men</hi> pulled out of the <hi>meeting</hi> by the <hi>hair of the head</hi> when <hi>they</hi> have been at prayer, which has been a diſhonour, &amp; a ſhame to Government: And how many <hi>formed lies</hi> have been invented amongſt you, and by your <hi>Prieſts,</hi> that the <hi>Quakers</hi> was riſing to cut your throats; and now what good does your refuge do you? and what is become of your refuge makers? are not the <hi>Quakers</hi> now <hi>tryed</hi> and <hi>proved?</hi> and muſt not now your refuge of lies go to the pit with you? and was not the people of God called <hi>Quakers</hi> your friends, in warning you of all this that is come to paſſe? though you perſecuted them, and trod upon them, and caſt them out, for the Lords names ſake, and becauſe they trembled at his word; but now he ſhall appear for their ſakes, and you ſhall be aſhamed, and the thouſands; and multitudes that have been perſecuted by you for not <hi>doffing hats</hi> to you, and reſpecting perſons, in which you went beyond all <hi>Chriſtianity</hi> (yea, the very <hi>Turk</hi>) in pride and ambition, and now you may ſee what you have been cover<g ref="char:EOLhyphen"/>ed withall, now you have the ſubſtance of it, and you may ſee how the life of Religion, you have lived out of, and out of the life of <hi>Chriſt</hi> and the <hi>Apoſtles;</hi> and now you may ſee that God hath ſtained, and laid in duſt that glory and honour of yours, which you would have had friends to bow down to, and perſecuted them becauſe they would not give it you, and becauſe they would not bow down to your will-worſhips, but worſhipt God in Spirit and Truth.</p>
+            <p>And was not perſecution ever blind, and Perſecutors? and now you may ſee into what Ditch you are fallen: And have you
+<pb n="8" facs="tcp:193569:5"/>not a reward according to your workes? you cannot ſay, but you were warned both by God and his people, and were in a wilfull rebelling againſt both; and ſo the Lord will make you to know his Arm and Power, and his hand ſtretched out, which layes down the Mountaines with the Valleys, and layes down the ſtur<g ref="char:EOLhyphen"/>dieſt Oak, and ſlayes the fatteſt Bull: View the hand that does this, and Power of the Lord: Whether would not now many of you be glad of a <hi>Rock</hi> and a <hi>Hole</hi> in the earth to hide your ſelves in, when the Lord is riſen to ſhake terribly the earth? now muſt you not own <hi>Quakers</hi> whether you will or no? and for all your perſecution towards us we freely ſay, <hi>the Lord forgive you,</hi> and <hi>that from him you may find mercy in this day of your miſe<g ref="char:EOLhyphen"/>ry,</hi> and whether now <hi>night</hi> is not come upon you that hath been told you, that your walking is there? and now have not you trea<g ref="char:EOLhyphen"/>chery enough, who in it has been found both to God and Man? plain dealing men were become, an abominable thing among you, for how many fair promiſes had you promiſed to the Na<g ref="char:EOLhyphen"/>tion, over and over, and how long did the Lord ſpare you? and did you not betray the innocent people of the Nation? Now mind and conſider, whither that hath brought you ſelves, <hi>and learn to do ſo no more, but repent.</hi>
+            </p>
+            <p>All men ſhall be at their wits end about their Religion and Profeſſion which be out of the Life &amp; Power the Prophets and Apoſtles were in, and in heaps, and confuſions, and diſtractions, one ſetting up, and another plucking down; And this is the work out of the Life and Power.</p>
+            <p>And before the Lord deſtroyed <hi>Jeruſalem,</hi> he long warned them, as he hath long <hi>you,</hi> and nevertheleſſe the Lords Arm and Power, will and ſhall be ſeen in this Nation.</p>
+            <p>And did not the Lord warn &amp; fend Prophets among the peo<g ref="char:EOLhyphen"/>ple before he deſtroyed them? and did not they perſecute them as you have done? and ſo caſt the Lords Servants out of the vineyard, like the <hi>Jews,</hi> untill at the laſt they were caſt out themſelves, and ſo you who have betrayed the Nation and pow<g ref="char:EOLhyphen"/>er, at laſt what you ſowed, that you do reap.</p>
+            <closer>
+               <signed>From one that loves all ſouls (and the good of all people) which is eternall. <hi>George Fox.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
